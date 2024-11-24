@@ -50,5 +50,10 @@ Asegúrate de que estas variables estén correctamente configuradas, ya que son 
 
 1. Clona este repositorio.
 2. Crea el archivo .env en la raíz del proyecto y configura las variables de entorno.
-3. Verifica que estén todas las dependencias necesarias para que la aplicación funcione correctamente y que tengas la versión 17 de Java instalada.
-4. Ejecuta la aplicación.
+3. Crea la base de datos en MySQL con el siguiente comando:
+
+   ```sql
+   CREATE DATABASE gestion_inventario;
+   
+4. Verifica que estén todas las dependencias necesarias para que la aplicación funcione correctamente y que tengas la versión 17 de Java instalada.
+5. Ejecuta la aplicación.
