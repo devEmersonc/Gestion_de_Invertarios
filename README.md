@@ -53,7 +53,6 @@ Asegúrate de que estas variables estén correctamente configuradas, ya que son 
 3. Crea la base de datos en MySQL con el siguiente comando:
 
    ```sql
-   CREATE DATABASE gestion_inventario;
-   
+   ``CREATE DATABASE gestion_inventario;```
 4. Verifica que estén todas las dependencias necesarias para que la aplicación funcione correctamente y que tengas la versión 17 de Java instalada.
 5. Ejecuta la aplicación.
