@@ -6,7 +6,6 @@ Este es un proyecto que implementa una API RESTful para gestionar inventarios en
 
 - CRUD para productos, categorías, proveedores y usuarios.
 - Autenticación y autorización mediante JWT.
-- Reportes en formato CSV.
 
 ## Requisitos y Tecnologías
 
